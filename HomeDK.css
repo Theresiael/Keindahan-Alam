@@ -1,0 +1,139 @@
+body{
+    font-family: Helvetica;
+}
+
+.header{
+    height: 100px;
+    padding-top: 25px;
+    padding-right: 75px;
+}
+
+.title{
+    color: whitesmoke;
+    font-size: 2em;
+    font-weight: 700;
+    margin-left: 3%;
+    margin-top: 0%;
+    letter-spacing: 2px;
+    display: inline;
+}
+
+.title a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.nav li a{
+    color: white;
+    font-size: 1.1em;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+.nav li a:hover{
+    color: yellow;
+    font-size: 1.1em;
+    text-decoration: underline;
+    font-weight:bold;
+}
+/*Header--------------------------------------------------------------------*/
+
+.gambar{
+    margin-top: -100px;
+    background-size: cover;
+    background: url(images/2.jpg) no-repeat;
+    padding-top: 111px;
+    max-height: 1002px;
+    height: 645px;
+    width: 100%;
+}
+
+.gambar .jumbotron{
+    background: none;
+    margin-left: 150px;
+    max-width: 1000px;
+    margin-top: 22px;
+}
+
+.gambar .jumbotron h1{
+    font-family: nexa;
+    color: white;
+    margin-bottom: 12px;
+}
+
+.gambar .jumbotron h1 a{
+    color: white;
+    text-decoration: none;
+}
+
+.gambar .jumbotron p{
+    font-family: raleway;
+    color: white;
+    margin-bottom: 12px;
+    margin-top: 40px;
+    font-size: 20px;
+    padding-right: 307px;
+}
+
+.container{
+    text-align: left;
+}
+
+.container h4{
+    margin: 30px;
+    text-align: center;
+    color:#3d4b9a;
+}
+
+.container .row{
+    margin-top: -100px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:350px;
+}
+
+.card .tempat{
+    color: red;
+    font-size: 20px;
+}
+
+.card .gunung{
+    color: green;
+    font-size: 20px;
+}
+
+.card .jalan{
+    color: darkolivegreen;
+    font-size: 20px;
+}
+
+.img-thumbnail{
+    border: none;
+}
+/*Card--------------------------------------------------------------------*/
+
+.footer{
+    background-color: #102128;
+    color: whitesmoke;
+    margin-top: 79px;
+    font-family: petitmedium;
+    text-align: center;
+}
+
+.container .footer{
+    width: 100%;
+    padding: 55px;
+}
+
+.foot{
+    color: whitesmoke;
+    background-color: #0f1517;
+}
+
+.foot h6{
+    font-size: 13px;
+}
+/*Footer--------------------------------------------------------------------*/
+

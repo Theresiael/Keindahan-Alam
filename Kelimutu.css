@@ -1,0 +1,66 @@
+body{
+    font-family: Helvetica;
+    background-color: #008179;
+}
+
+body a{
+    margin-left: 2%;
+    font-size: 20px;
+    color: aliceblue;
+    padding-bottom: 2%;
+}
+
+body a:hover{
+    font-size: 22px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.container{
+    margin-top: -2%;
+    background-color: aliceblue;
+}
+
+.container h1{
+    padding-top: 3%;
+}
+
+.container p{
+    font-size: 17px;
+}
+
+.container a{
+    font-size: 17px;
+    margin-left: 6px;
+    color: rgb(6, 152, 243);
+}
+
+.container a:hover{
+    font-size: 17px;
+    text-decoration: underline;
+    color: rgb(6, 152, 243);
+}
+/*Keterangan*/
+
+.footer{
+    background-color: #102128;
+    color: whitesmoke;
+    font-family: petitmedium;
+    text-align: center;
+}
+
+.container .foor{
+    padding: 55px;
+    width: 100%;
+}
+
+.foot{
+    color: whitesmoke;
+    background-color: #0f1517;
+}
+
+.foot h6{
+    font-size: 13px;
+}
+/*Footer--------------------------------------------------------------------*/
+
